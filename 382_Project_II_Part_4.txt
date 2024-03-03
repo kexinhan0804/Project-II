@@ -22,7 +22,7 @@
 	<i> Classes </i> - Our courses are led by experienced instructors who provide expert guidance. Upon completion, participants have the opportunity to obtain hang-gliding certification.
 <ul>
 	<li>Research regulations before coming to your certification courses: <a href="W:\www\Paragliding_Regulations.pdf" target="_blank">Paragliding Regulations PDF</a></li>
-	<li><b><span style="font-family: serif;">Come prepared!</span></b> To receive your full certification, you must be fully prepared with your own equipment. Refer to the following website to know what you must have: <a href="https://proparaglide.com/paragliding-equipment/" 	target="_blank">Paragliding Equipment</a></li>
+	<li><b><span style="font-family: serif;">Come prepared!</span></b> To receive your full certification, you must be fully prepared with your own equipment. Refer to the following website to know what you must have: <a href="https://proparaglide.com/paragliding-equipment/" target="_blank">Paragliding Equipment</a></li>
 </ul>
 <br>
 <font size = "10"><b><u>Equipment Cleaning & Repair</u></b></font>
