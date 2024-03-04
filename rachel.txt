@@ -2,13 +2,13 @@
 <font size ="6"><b><u> Services - What We Offer </u></b></font>
 <br>
 <ul>
-	<li>Hang-Gliding Adventures</li>
-	<li>Training & Courses</li>
-	<li>Equipment Cleaning & Repair</li>
-	<li>Hang-Gliding Socials</li>
+	<font size ="4"><li>Hang-Gliding Adventures</li></font>
+	<font size ="4"><li>Training & Courses</li></font>
+	<font size ="4"><li>Equipment Cleaning & Repair</li></font>
+	<font size ="4"><li>Hang-Gliding Socials</li></font>
 </ul>
 <br>
-<img src="W:\www\hangliding_part4_pic.png" width="400" height="250" align="left">
+<img src="W:\www\hangliding_part4_pic.png" width="450" height="280" align="left">
 <br>
 <br>
 <br>
@@ -24,7 +24,9 @@
 <br>
 <br>
 <br>
-<font color = "#212A86"><h2> <b> Services Details </b> </h2></font>
+<br>
+<h2 style="font-family: Verdana; color: #212A86;">Services Details</h2>
+
 <font color = "#212A86"><h3><b>Hang-Gliding Adventures</b></h3></font>
 <ol>
 	<li> <i> Individual Sessions </i> - guided by experienced instructors, tailored to your skill level and preferences. </li>
